@@ -168,26 +168,41 @@ Save Changes
 <p>
    <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   
-
+<p>The agent Jane Doe is a member of the Systems Administrators department.
+ <p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   
+  
+<h4>How to Reset an agent’s password</h4>
 
+<p>If necessary, administrators can manually reset an agent’s password by clicking the Set Password box in the middle of the Account page. This will produce a pop-up box with two options; the first is to send a password reset email to the agent. Please note, if the agent has not first set a password post-creation they can not reset said password. The second option for the admin is to uncheck the box which will populate fields to manually set a password for the agent. Once manually set, the admin will need to communicate this to the agent allowing them to log-in; the agent can be forced to reset the password upon logging in by keeping the box checked at the bottom left of the pop-up.
+<p>
+ <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+ <p>Reset Agent Password manually
+  <p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+  <h4>User Directory</h4>
+<p>Agent panel > users > user directory > add user
+ <p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+  <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+<p>Here is the new user, John Smith.  John can create a ticket by selecting create a new ticket at the bottom right.
+<p>
+ <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-
-<br />
+<h4>Item 4  (Configure SLAs "Service Level Agreements")</h4>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+<p>Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+
