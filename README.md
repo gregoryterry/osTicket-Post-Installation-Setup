@@ -66,37 +66,37 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h4>Item 1  (Configure Roles)</h4>
 
 <p>In your web browser, enter this url “http://localhost/osTicket/scp/login.php”  to get to the Admin panel logon.
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jpVbEbu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Select the Admin Panel tab > Roles > Agents
+<p>Select the Https://imgpile.com/images/h688Th.pnghe  > Admin Panel tab > Roles > Agents
 </p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h68o7R.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h68AyN.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h5>Add New Role</h5>
 
 <p>Name: Supreme Admin >  add role
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h68BTL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Supreme Admin role was created
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h68v7o.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Select the Supreme admin role > select the roles tab  >  select the Permissions tab > check all permissions
 **This will grant all permissions to the Supreme Admin role
 Save Changes
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6VlkC.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Select the Supreme Admin role > Permissions tab  > Select the Tasks tab > make sure all boxes are selected > update
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6Vorw.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Under the Permissions tab > select Knowledgebase > check the Premade box  > save changes
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6VAUi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h4>Item 2  (Configure Departments)</h4>
 
@@ -104,35 +104,35 @@ Save Changes
 <p>
 <p>Select the Departments tab  > Add a new department
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6VOkk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Add the “System Administrators” department
 <p>
 <p>Select the following fields: when done > create department
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6VvrX.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>The System Administrators department was created
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6VEUE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <h4>Item 3  (Create Teams and Agents)</h4>
 
 <p>Select the Teams tab > Add New Team
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6XTq8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Name:  Level II Support
 <p>
-<img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6Xhh3.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Select the Members tab > Select an Agent > add  > Create Team
 <p>
-<img src="" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6Xtsi.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <p>Greg Terry is now a member of the Level II Support team
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6XP24.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
  
 <h4>How to Create Teams from a group of Agents</h4>
 
@@ -140,37 +140,38 @@ Save Changes
 
 <p>Admin User Panel  > settings > users
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6Xf3X.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
  
   
  <h4>Create Agents</h4>
  <p>Admin Panel > Agents > Add New Agent
 <p>
-  <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  <img src="https://imgpile.com/images/h6Xf3X.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   
   <p>Enter the agent’s name:  Jane Doe Email: jane.doe@osticket.com Username: jane.doe Set Password: Create
     <p>
-    <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+    <img src="https://imgpile.com/images/h6XL61.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+    
       
 <p>un-check, send the agent a password reset email and select set
   <p>
-    <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+    <img src="https://imgpile.com/images/h6Xg2S.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
  
  <p>Select the Access tab **to set the departments and roles this agent will have access to.
     <p>
-      <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+      <img src="https://imgpile.com/images/h6XE83.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
     
  <p>Select Permissions tab > check all selections
    <p>
-     <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+     <img src="https://imgpile.com/i/h6XE83" height="70%" width="70%" alt="Disk Sanitization Steps"/>
  
  <p>Agent Jane Doe has been added
 <p>
-   <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+   <img src="https://imgpile.com/images/h6XacF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   
 <p>The agent Jane Doe is a member of the Systems Administrators department.
  <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/h6H4Mk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
   
   
 <h4>How to Reset an agent’s password</h4>
@@ -193,11 +194,12 @@ Save Changes
 <p>Here is the new user, John Smith.  John can create a ticket by selecting create a new ticket at the bottom right.
 <p>
  <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
 
 <h4>Item 4  (Configure SLAs "Service Level Agreements")</h4>
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
@@ -205,4 +207,18 @@ Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
 <p>
 
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+
+
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
