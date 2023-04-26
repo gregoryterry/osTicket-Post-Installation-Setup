@@ -11,8 +11,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2></h2>
 
--
-<h2>Environments and Technologies Used</h2>
+-<h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -67,7 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h4>Item 1  (Configure Roles)</h4>
 
 <p>In your web browser, enter this url “http://localhost/osTicket/scp/login.php”  to get to the Admin panel logon.
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Select the Admin Panel tab > Roles > Agents
 </p>
@@ -134,6 +133,43 @@ Save Changes
 <p>Greg Terry is now a member of the Level II Support team
 <p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+<h4>How to Create Teams from a group of Agents</h4>
+
+<p>Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter. Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. This will allow anyone to create tickets, registration will not be required to create tickets. Make sure require registration and login to create tickets is unchecked.
+
+<p>Admin User Panel  > settings > users
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+  
+ <h4>Create Agents</h4>
+ <p>Admin Panel > Agents > Add New Agent
+<p>
+  <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  
+  <p>Enter the agent’s name:  Jane Doe Email: jane.doe@osticket.com Username: jane.doe Set Password: Create
+    <p>
+    <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+      
+<p>un-check, send the agent a password reset email and select set
+  <p>
+    <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+ <p>Select the Access tab **to set the departments and roles this agent will have access to.
+    <p>
+      <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+    
+ <p>Select Permissions tab > check all selections
+   <p>
+     <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ 
+ <p>Agent Jane Doe has been added
+<p>
+   <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  
+
+  
 
 
 
