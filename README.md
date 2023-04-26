@@ -197,7 +197,7 @@ Save Changes
 <h4>Item 4  (Configure SLAs "Service Level Agreements")</h4>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
