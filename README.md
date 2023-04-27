@@ -206,14 +206,71 @@ Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
 <p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
+      <h4>Create three SLA plans</h4>
+      
+        <P>Add new SLA plan
+        <p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>Name: SEV-A Grace period: 1hr Schedule: 24/7  >  Add plan
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>The new SLA is created, repeat the procedure for SEV-B and SEV-C
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>I created  SEV-B and SEV-C using the same procedure I used to create SEV-A
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<P>Name: SEV-B Grace period: 4hr Schedule: 24/7  >  add plan
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>SEV-C Grace period: 8hr Schedule:  Monday - Friday 8a - 5p with US holidays >  add plan
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>Here are the three new SLAs
+<p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
+<h4>Configure Help Topics</h4>
 
+<p>These are the default help topics
+<p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>I will create the following help topics
+
+  Business Critical Outage
+  Personal Computer Issues
+  Equipment Request
+  Password Reset
+<p>
+
+<p>To add a new help topic
+
+   Admin Panel -> Manage -> Help Topics > Add New Help Topic
+   <p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>The new help topic should look like this
+<p>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<P>When completed you should have four new help topics
+<p>
+<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<p>osTicket post installation setup is now complete.  I will continue to the next lab, "Tickets and Ticket Lifecycle"
+<p>
+
+
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
