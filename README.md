@@ -179,72 +179,74 @@ Save Changes
 
 <p>If necessary, administrators can manually reset an agent’s password by clicking the Set Password box in the middle of the Account page. This will produce a pop-up box with two options; the first is to send a password reset email to the agent. Please note, if the agent has not first set a password post-creation they can not reset said password. The second option for the admin is to uncheck the box which will populate fields to manually set a password for the agent. Once manually set, the admin will need to communicate this to the agent allowing them to log-in; the agent can be forced to reset the password upon logging in by keeping the box checked at the bottom left of the pop-up.
 <p>
- <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgpile.com/images/hputwc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
  
  <p>Reset Agent Password manually
   <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hpu8Wb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
  
   <h4>User Directory</h4>
+  
 <p>Agent panel > users > user directory > add user
  <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hpuO3k.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
-  <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
+<img src="https://imgpile.com/images/hpuE9E.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 <p>Here is the new user, John Smith.  John can create a ticket by selecting create a new ticket at the bottom right.
 <p>
- <img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgpile.com/images/hpuS6R.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
  
 
 <h4>Item 4  (Configure SLAs "Service Level Agreements")</h4>
 
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp71A1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp77Cx.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-      <h4>Create three SLA plans</h4>
+<h4>Create three SLA plans</h4>
       
-        <P>Add new SLA plan
-        <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<P>Add new SLA plan
+<p>
+<img src="https://imgpile.com/images/hp77Cx.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Name: SEV-A Grace period: 1hr Schedule: 24/7  >  Add plan
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7dub.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>The new SLA is created, repeat the procedure for SEV-B and SEV-C
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7hM3.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>I created  SEV-B and SEV-C using the same procedure I used to create SEV-A
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp79Al.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <P>Name: SEV-B Grace period: 4hr Schedule: 24/7  >  add plan
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp79Al.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>SEV-C Grace period: 8hr Schedule:  Monday - Friday 8a - 5p with US holidays >  add plan
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7tVi.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>Here are the three new SLAs
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7VTR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 
 <h4>Configure Help Topics</h4>
 
 <p>These are the default help topics
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp72JW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>I will create the following help topics
 
@@ -258,25 +260,18 @@ Sev-C (8 hours, business hours)
 
    Admin Panel -> Manage -> Help Topics > Add New Help Topic
    <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7ALP.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <p>The new help topic should look like this
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7ALP.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
 <P>When completed you should have four new help topics
 <p>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://imgpile.com/images/hp7kDL.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
-<p>osTicket post installation setup is now complete.  I will continue to the next lab, "Tickets and Ticket Lifecycle"
+<p>osTicket post installation setup is now complete.  Continue to the next lab, "Tickets and Ticket Lifecycle"
 <p>
 
 
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
