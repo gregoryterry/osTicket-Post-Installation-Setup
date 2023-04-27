@@ -66,6 +66,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h4>Item 1  (Configure Roles)</h4>
 
 <p>In your web browser, enter this url “http://localhost/osTicket/scp/login.php”  to get to the Admin panel logon.
+ <p>
 <img src="https://i.imgur.com/jpVbEbu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Select the Https://imgpile.com/images/h688Th.pnghe  > Admin Panel tab > Roles > Agents
